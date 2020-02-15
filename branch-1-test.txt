@@ -1,2 +1,1 @@
-Dodanie nowego branch-a.
-I sprawdzenie go.
+Dodanie nowego branch-a i dodatkowo sprawdzenie go.
