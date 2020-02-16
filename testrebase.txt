@@ -1,1 +1,1 @@
-Wprowadzenie zawartości test rebase.
+Wprowadzenie zawartości wraz ze zmianami dla test rebase.

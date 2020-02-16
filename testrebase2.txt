@@ -1,1 +1,1 @@
-Dodanie plika test rebase 2.
+Dodanie plika wraz ze zmianami na testrebase2 na branch rebase1.
